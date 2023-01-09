@@ -1,1 +1,1 @@
-Introduction to COmputer Engineering homeworks and projects
+Introduction to Computer Engineering homeworks and projects
